@@ -7,5 +7,6 @@ public class Main {
         System.out.println("HelloWorld!");
         System.out.println("这是新增的代码!");
         System.out.println("李四的提交!");
+        System.out.println("这是冲突代码!");
     }
 }
